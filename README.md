@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm Sanjivani Sharma
 
-<!--
-**sanjivanisharma/sanjivanisharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full-Stack Developer** skilled in building web applications.
 
-Here are some ideas to get you started:
+## ✨ About me
+- 🌱 I’m currently learning React and MongoDB.
+- 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/sanjivanisharma?tab=repositories)
+- 📫 How to reach me: [Email](mailto:sanjivanisharma01@gmail.com)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1vwD9obQtKGBShREMz9ThQ6dnjgpVaq-h/view?usp=sharing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Frontend**: Angular, React.js, HTML5, CSS3, JavaScript, TypeScript
+- **Backend**: Node.js, Express.js, Java
+- **Database**: MySQL, MongoDB, Redis
+- **Tools**: Git, GitHub, Linux, Postman, Docker, Kubernetes
+
+Thanks for visiting my GitHub profile! 😊  
+Let’s build something together.
