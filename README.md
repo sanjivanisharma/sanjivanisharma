@@ -13,6 +13,3 @@ I'm a passionate **Full-Stack Developer** skilled in building web applications.
 - **Backend**: Node.js, Express.js, Java
 - **Database**: MySQL, MongoDB, Redis
 - **Tools**: Git, GitHub, Linux, Postman, Docker, Kubernetes
-
-Thanks for visiting my GitHub profile! 😊  
-Let’s build something together.
