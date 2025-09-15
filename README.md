@@ -6,7 +6,7 @@ I'm a passionate **Full-Stack Developer** skilled in building web applications.
 - 🌱 I’m currently learning React and MongoDB.
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/sanjivanisharma?tab=repositories)
 - 📫 How to reach me: [Email](mailto:sanjivanisharma01@gmail.com)
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1vwD9obQtKGBShREMz9ThQ6dnjgpVaq-h/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/14BJkYE8e7RCgBhCjidbTX7oSvvfhGCol/view?usp=sharing)
 
 ## 🚀 Tech Stack
 - **Frontend**: Angular, React.js, HTML5, CSS3, JavaScript, TypeScript
